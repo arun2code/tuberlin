@@ -1,7 +1,6 @@
-First open Workbench, for MySQL. create schema there as mydb.or with anynamecheck the username and password.
-all 3 should be same in application.properties in spring project....
+It is using in-build Spring-H2 database. 
 
-download the folder.
+Clone or download the project.
 import in eclipse-> as Maven project.
 open the command prompt.
 go in folder directory spring-boot-jpa.. here u can see src and pom.xml file.
